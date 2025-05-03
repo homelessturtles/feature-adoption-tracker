@@ -1,0 +1,11 @@
+user_id,event_name,feature,timestamp
+u1,click,UploadPhoto,2025-05-01 09:15:23
+u2,click,UploadPhoto,2025-05-01 10:05:11
+u3,click,ShareBoard,2025-05-01 11:32:45
+u4,click,Dashboard,2025-05-01 12:12:00
+u1,click,Dashboard,2025-05-01 13:01:09
+u3,click,UploadPhoto,2025-05-02 08:45:00
+u5,click,InviteTeam,2025-05-02 09:20:34
+u6,click,UploadPhoto,2025-05-02 10:00:00
+u2,click,Dashboard,2025-05-02 10:30:00
+u5,click,ShareBoard,2025-05-02 11:00:00
